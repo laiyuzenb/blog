@@ -61,7 +61,6 @@
 ### 行业标准 <Badge type="tip" text="2" vertical="top" />
 
 - W3C/WHATWG
-
 - ECMA-TC39
 
 ## 研发工具 <Badge type="warning" text="4" vertical="top" />
@@ -82,7 +81,7 @@
 #### 本地服务
 
 - file://
-- <http://、SimpleHTTPSServer>
+- http://、SimpleHTTPSServer
 
 #### 在线服务
 
@@ -123,12 +122,10 @@
 ### 属性 <Badge type="tip" text="2" vertical="top" />
 
 - 常用属性
-
   - class
   - id
   - style
   - title
-
 - 全局属性
 
 ### 事件 <Badge type="tip" text="5" vertical="top" />
@@ -270,10 +267,10 @@
 - NFE、函数命名表达式
 - 箭头函数
 - new Function
-  - setTimeout setInterval
-  - call apply bind
-  - 部分施用、柯里化
-  - 执行上下文
+- setTimeout setInterval
+- call apply bind
+- 部分施用、柯里化
+- 执行上下文
 
 ### 原型 <Badge type="tip" text="3" vertical="top" />
 
@@ -317,44 +314,30 @@
 
 ### DOM <Badge type="tip" text="8" vertical="top" />
 
-#### DOM Tree
-
-#### DOM Node
-
-#### DOM Query
-
-#### DOM Properties
-
-#### DOM Modify
-
-#### Styles
-
-#### Coordinates、Element Scrolling
-
-#### DOM Events
-
-- UI Event
-- Bubbling and Capturing
-- Event Delegate
+- DOM Tree
+- DOM Node
+- DOM Query
+- DOM Properties
+- DOM Modify
+- Styles
+- Coordinates、Element Scrolling
+- DOM Events
+  - UI Event
+  - Bubbling and Capturing
+  - Event Delegate
 
 ### 浏览器 API <Badge type="tip" text="5" vertical="top" />
 
-#### location
-
-#### history
-
-#### navigator
-
-#### Default Actions
-
-- event.preventDefault()
-
-#### Form
-
-- change
-- focus
-- blur
-- submit
+- location
+- history
+- navigator
+- Default Actions
+  - event.preventDefault()
+- Form
+  - change
+  - focus
+  - blur
+  - submit
 
 ### 网络 <Badge type="tip" text="4" vertical="top" />
 
