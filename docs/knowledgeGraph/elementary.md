@@ -170,7 +170,7 @@
 - 子元素 选择器
 - 相邻 选择器
 - 伪类
-  -. 伪元素
+- 伪元素
 
 ### 定位 <Badge type="tip" text="3" vertical="top" />
 
@@ -240,9 +240,9 @@
 - Map and Set（映射和集合）
 - WeakMap and WeakSet（弱映射和弱集合）
 - Object.keys,values,entries
-  -. 解构赋值
-  -. 日期和时间
-  -. JSON 序列化、反序列化
+- 解构赋值
+- 日期和时间
+- JSON 序列化、反序列化
 
 ### 对象 <Badge type="tip" text="2" vertical="top" />
 
@@ -255,9 +255,9 @@
 - this
 - new
 - Optional chaining '?.'
-  -. 类型转换 Symbol.toPrimitive
-  -. Property flags、descriptors
-  -. getters、setters
+- 类型转换 Symbol.toPrimitive
+- Property flags、descriptors
+- getters、setters
 
 ### 函数 <Badge type="tip" text="13" vertical="top" />
 
@@ -270,10 +270,10 @@
 - NFE、函数命名表达式
 - 箭头函数
 - new Function
-  -. setTimeout setInterval
-  -. call apply bind
-  -. 部分施用、柯里化
-  -. 执行上下文
+  - setTimeout setInterval
+  - call apply bind
+  - 部分施用、柯里化
+  - 执行上下文
 
 ### 原型 <Badge type="tip" text="3" vertical="top" />
 
