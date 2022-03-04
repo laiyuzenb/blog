@@ -12,6 +12,8 @@ module.exports = {
     sidebar: sideBarConfig,
     lastUpdatedText: "更新时间",
     contributorsText: "贡献者",
+    repo: "laiyuzenb/blog",
+    editLink: false,
   },
   plugins: pluginsConfig,
 };

@@ -4,10 +4,10 @@ heroImage: "https://v2.vuepress.vuejs.org/images/hero.png" # 注意这里可以�
 heroText: Cloud Nine
 tagline: 九霄云外
 
-actions:
-  - text: 客官里面请
-    link: /about
-    type: primary
+# actions:
+#   - text: 客官里面请
+#     link: /about
+#     type: primary
 
 features:
   - title: who am i ?
@@ -15,6 +15,6 @@ features:
   - title: 爱好
     details: coding、motorcycle、Skate、Swimming、guitar、piano、Steam games
   - title: what's this ?
-    details: 一个收集归纳自身所学、日常所见、浮生若梦的地方
-footer: MIT Licensed | Copyright © 2018-present Evan You
+    details: 一个整理自身所学、日有所见、夜有所梦的地方
+footer: MIT Licensed | Copyright © 2022 lyz
 ---
